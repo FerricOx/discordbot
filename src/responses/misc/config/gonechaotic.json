@@ -2202,7 +2202,7 @@
             "type": "Creature",
             "tribe":"Mipedian",
             "stats:": [20,75,55,60,30],
-            "text": ":MipCounter::MipCounter:\n\n**Unique,Loyal,Enters play on this side**",
+            "text": "<:MipCounter:283789915693514752><:MipCounter:283789915693514752>\n\n**Unique,Loyal,Enters play on this side**",
             "flavor": "Im calling Mom!"
         },
         "Vallb@llus, Weapon Shielder":{
